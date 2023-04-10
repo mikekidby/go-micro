@@ -1,6 +1,10 @@
+# GO FUNDAMENTALS
 <p align="center">
 <img src="https://mshaeri.com/blog/wp-content/uploads/2022/04/gologin.png"  height="200" >
 </p>
+
+
+## WORKING WITH GO
 
 **Run code right away**
 <ol>
